@@ -1,3 +1,5 @@
+![Flutter - BASIC APP SETUP](https://i.imgur.com/rO90zGP.jpg)
+
 # Flutter Basic
  a flutter basic package - blank app with some settings, I always tend to use.
 
@@ -7,15 +9,15 @@ This is a small and clean basic flutter app. This app is without any default dem
 
 ### Additional Settings
 
-- *Debugging*
+- **Debugging**
     - removal of the debug badge
     - boundaries flag, set to false
 
 #### Future Plans: 
 
-- *Firebase*
+- **Firebase**
   - Firebase integration for writing, reading and deleting data
-- *Analytics*
+- **Analytics**
   - Google Analytics
      
 ### Installation
