@@ -5,20 +5,20 @@
 
 ## 📚 Introduction & Overview
 
-This is a small and clean basic flutter app. This app is without any default demo code.
+I'm trying to put out an Android based Flutter-Project with all - *or at least most* - features I often use. If you want, feel free to use, adapat or improve this. 
 
-### Additional Settings & Updates
+## 🆕 Updates
 
-- **Debugging**
+- `10.03.2020` **Debugging**
     - removal of the debug badge
     - boundaries flag, set to false
-- **Splashscreen**
+- `12.03.2020` **Splashscreen**
     - Splashscreen for Android (icimage.png under `android/app/src/main/res/drawable`)
-- **Sign in with Google**
+- `12.03.2020` **Sign in with Google**
     - requires the `android/app/google-services.json` file 
 
 
-### 🚀 Future Plans: 
+## 🚀 Future Plans: 
 
 - **Firebase**
   - Firebase integration for writing, reading and deleting data
